@@ -1,0 +1,40 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Work Sans', sans-serif;
+    background-image: url("../img/about.jpg");
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    background-position: top right;
+    background-attachment: scroll;
+}
+.pintados1{
+    background-color: rgba(250,250,250,.3);
+    color: darkcyan;
+    font-size: 25px;
+    text-align: left;
+}
+.pintados2{
+    background-color: rgba(250, 250, 250, .3) ;
+    color: darkcyan;
+}
+h1{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+.em{
+    margin-top: 100px;
+}
+.hipervinculos{
+    text-decoration: none;
+    margin-left: 25px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.logos{
+    margin-left: 25px;
+}

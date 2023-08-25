@@ -1,0 +1,36 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+h1{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+.verde{
+    color: darkcyan;
+    font-size: larger;
+}
+.negro{
+    color: black;
+    font-size: smaller;
+}
+.hipervinculos{
+    margin-left: 25px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.logos{
+    margin-left: 25px;
+}
+.contact{
+    font-size: 70px;
+}
+.grande{
+    font-size: larger;
+    font-weight: bold;
+}
